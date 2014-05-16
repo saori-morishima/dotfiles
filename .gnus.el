@@ -1,7 +1,7 @@
 ;; Gnus setup for GMail
 
 ;; User information
-(setq user-mail-address "Thomas Moulard")
+(setq user-mail-address "Saori Morishima")
 (setq user-full-name "thomas.moulard@gmail.com")
 
 ;; Incoming mail

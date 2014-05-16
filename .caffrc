@@ -1,7 +1,7 @@
 # .caffrc -- vim:ft=perl:
 # This file is in perl(1) format - see caff(1) for details.
 
-$CONFIG{'owner'} = 'Thomas Moulard';
+$CONFIG{'owner'} = 'Saori Morishima';
 $CONFIG{'email'} = 'thomas.moulard@gmail.com';
 #$CONFIG{'reply-to'} = 'foo@bla.org';
 

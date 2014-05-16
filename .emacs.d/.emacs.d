@@ -1,0 +1,1 @@
+/home/morishima/.dotfiles/.emacs.d

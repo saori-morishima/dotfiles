@@ -13,14 +13,11 @@
 # Global Order: zshenv, zprofile, zshrc, zlogin
 
 # Identity
-export NAME='Thomas Moulard'
+export NAME='Saori Morishima'
 export PAGER='less -R'
-export FULLNAME='Thomas Moulard'
-export EMAIL='thomas.moulard@gmail.com'
+export FULLNAME='Saori Morishima'
+export EMAIL='smorisy@gmail.com'
 export REPLYTO=$EMAIL
-
-export AIST_USERNAME='t02830'
-export SF_USERNAME='thomas_moulard'
 
 export MAIL=$HOME/Mail
 
@@ -32,23 +29,7 @@ export CVS_RSH=ssh
 test -x /usr/lib/ccache/gcc && export CC=/usr/lib/ccache/gcc
 test -x /usr/lib/ccache/g++ && export CXX=/usr/lib/ccache/g++
 
-export OMNIORB_CONFIG=$HOME/.dotfiles/.omniORB.cfg
-export OMNINAMES_LOGDIR=$HOME/.omniorb
-
-export AC3D_HOME=$HOME/Downloads/ac3dlx
-
-export ROS_EMAIL="$EMAIL"
-
-export GPGKEY=31496D58
-export KEYCHAIN_KEYS="$GPGKEY"
-
-export ROS_EMAILS=thomas.moulard@gmail.com
-
-export PATH=/usr/local/texlive/2012/bin/x86_64-linux:$PATH
-
-#PROFILE="icc"
-#PROFILE="default-i386-linux-ubuntu-10.04"
-PROFILE=default-x86_64-linux-ubuntu-12.04.1
+PROFILE='default-i686-linux-ubuntu-10.04.4'
 
 # Update LD_LIBRARY_PATH
 export LD_LIBARY_PATH=/opt/ros/fuerte/stacks/robot_model/urdf_parser/lib:$LD_LIBRARY_PATH
